@@ -1,0 +1,56 @@
+/* Estilo para o título h1 */
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: right;
+    text-decoration: double;
+}
+
+p {
+    text-align: justify;
+    color: black;
+}
+
+/* Estilo para parágrafos com a classe "destaque" */
+.destaque {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+}
+
+#titulo {
+    color: navy;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: armenian;
+    padding: 10px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+nav ul li {
+    display: grid;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+}
+
+.destaque {
+    background-color: lightyellow;
+    padding: 20px;
+}
+
+footer {
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+}
